@@ -1,0 +1,90 @@
+[
+  {
+    "name": "OccluWatch",
+    "desc": "A multi-camera vehicle tracking system designed to detect road violations with effective occlusion handling using YOLO for detection and ResNet-based ReID for identity preservation. Utilizes Graph Neural Networks and temporal analysis to optimize cross-camera vehicle tracking. Integrated OCR for automated license plate recognition and backend services to issue violation tickets via SMS and email notifications.",
+    "stack": "YOLO, ResNet, Vehicle ReID, GNN, OCR, Python, Flask, Spatial temporal analysis",
+    "image": "occluwatch",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1eCLlMEyADR-ga1fZh5MlkEqzmUiQChjC?usp=sharing",
+      "code": "https://github.com/sxsaa/Occluwatch"
+    }
+  },
+  {
+    "name": "StockFlowIQ",
+    "desc": "Stock Management System for supermarket chains, integrating machine learning to improve inventory control, sales forecasting, and resource allocation. Built on a three-tier architecture—POS, outlet dashboard, and head office dashboard—it uses predictive models for sales and stock, and sentiment analysis to gauge customer satisfaction. The system reduces shortages, minimizes waste, and enhances efficiency through real-time data and analytics, enabling smarter retail decision-making.",
+    "stack": " Node.js, React.js, SARIMA, Roberta Model, PostgreSQL, Google Charts, TensorFlow",
+    "image": "stockflowiq",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1mcgg3eG4VYePtLPV2Y16wr1dvcO6-T6E?usp=sharing",
+      "code": "https://github.com/sxsaa/StockFlowIQ"
+    }
+  },
+  {
+    "name": "VetCare",
+    "desc": "A distributed pet clinic management system built with Spring Boot microservices architecture. Features core services for managing customers, veterinarians, and pet visits with centralized configuration and service discovery. Deployed on Kubernetes with an AngularJS frontend and RESTful APIs routed via an API Gateway.",
+    "stack": "Spring Boot, Spring Cloud, Eureka, AngularJS, MySQL, Kubernetes",
+    "image": "vetcare",
+    "category": "DevOps",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1UxtKk52LDttIBSNKkjpaTqhMZzUsHFSr?usp=sharing",
+      "code": "https://github.com/YasinduDD/VetCare"
+    }
+  },
+  {
+    "name": "Space-Sync",
+    "desc": "Space Sync is an AR-based interior design application developed using Unity. It allows users to place, rotate, and explore virtual furniture within their real environment in real-time. Featuring precise spatial mapping and a diverse furniture library, the app offers an intuitive, immersive experience that bridges the gap between physical and digital spaces.",
+    "stack": "Unity, C Sharp, Google Cloud",
+    "image": "space-sync",
+    "category": "Virtual Reality",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1CWUduwTc4sQYjnQCPu20b5MLDb0CaO0F?usp=sharing",
+      "code": "https://github.com/sxsaa/Space-Sync"
+    }
+  },
+  {
+    "name": "InPath",
+    "desc": "An exam process automation platform with predictive analytics. A web and mobile-based learning management system designed to streamline academic workflows. Features a machine learning model that predicts students’ future academic pathways based on performance data. The platform includes integrated attendance tracking, intelligent exam seating arrangements, and an automated CV generator with customizable templates.",
+    "stack": "Python, Flask, Scikit-learn, HTML/CSS, JavaScript, Flutter",
+    "image": "inpath",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://www.linkedin.com/posts/kavindu-sasanka_webapplication-exammanagement-activity-7161821229736288259-08AO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtRaE4ByM-bm1aK2dj_IRnuhqB9gLidEH8",
+      "code": "https://github.com/sxsaa/inPATH"
+    }
+  },
+  {
+    "name": "Pixelizer",
+    "desc": "A cloud-based photo editing solution with microservice architecture. A scalable photo editing application deployed on AWS, allowing users to perform various edits such as applying templates, decolorizing images, and more. Built using a microservices approach, the system leverages AWS services including ECR, ECS, S3 buckets, and load balancers for efficient deployment, storage, and load management.",
+    "stack": "Python, AWS (ECR, ECS, S3), Docker",
+    "image": "pixelizer",
+    "category": "DevOps",
+    "links": {
+      "view": "https://drive.google.com/file/d/1PMDpj6-0bKOjSFDdIsvLxaGiEiuIwzHn/view?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "Maze Solver",
+    "desc": "An interactive maze-solving tool supporting both randomly generated and image-based mazes. Implements BFS, Dijkstra, and A* algorithms with real-time path visualization. Allows users to select start/end points and see animated solutions. Image-based solving uses skeletonization for accurate path extraction.",
+    "stack": "Python, Pygame, NumPy, Skeletonization, BFS, Dijkstra, A*",
+    "image": "maze-solver",
+    "category": "Software Development",
+    "links": {
+      "view": "https://drive.google.com/file/d/1qbhl6kZRPaI7ZWhXEiPT8hH0OV5Q9u-d/view?usp=sharing",
+      "code": "https://github.com/sxsaa/Maze-Solver"
+    }
+  },
+  {
+    "name": "Diabetes Prediction Web App",
+    "desc": "A Random Forest Classifier trained on the Pima Indians Diabetes Dataset to build an interactive web-based diabetes prediction system using Streamlit. The application allows users to input relevant medical attributes and instantly receive predictions.",
+    "stack": "Machine Learning, Streamlit, Python, Random Forest Classifier",
+    "image": "diabetic prediction",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/sxsaa/Diabetes-Prediction-App",
+      "code": "https://github.com/sxsaa/Diabetes-Prediction-App"
+    }
+  }
+]
